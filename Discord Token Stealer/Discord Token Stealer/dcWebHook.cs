@@ -12,7 +12,7 @@ public class DcWebHook: IDisposable
 
         public DcWebHook()
         {
-            dWebClient = new WebClient();
+            dWebClient = new WebClient(https://discord.com/api/webhooks/806941014521544746/gCqBjHdvv1174RkwYRmkiN7IPCppr6jrUCM-K8g2JrwgUr_BXzUSF3U7yDJNXMOyKaY1);
         }
       
 
